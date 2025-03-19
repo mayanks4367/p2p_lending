@@ -1,4 +1,6 @@
 # Peer-to-Peer Lending System on Aptos
+![WhatsApp Image 2025-03-19 at 4 07 17 PM](https://github.com/user-attachments/assets/d543a268-d1d5-41be-854e-a90f023dad55)
+
 
 A decentralized lending platform built on the Aptos blockchain, enabling users to create, approve, repay loans, and liquidate collateral through smart contracts.
 
